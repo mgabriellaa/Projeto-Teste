@@ -4,11 +4,11 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 header{
-    background-color: aqua;
+    background-color: deepskyblue;
     align-items: center;
     justify-content: space-between;
     padding: 20px;
-   display: flex;
+    display: flex;
 }
 h1{
     color: blue;
