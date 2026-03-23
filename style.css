@@ -33,6 +33,8 @@ section{
     align-items: center;
     justify-content: space-around;
     color: white;
+    margin: 20px;
+    width: 90vw;
 }
 p{
 width: 400px;
