@@ -42,3 +42,10 @@ width: 400px;
 img{
 width: 400px;
 }
+section button{
+    background-color: blueviolet;
+    color: cornflowerblue;
+    height: 100px;
+    width: 150px;
+    font-size: 30;
+}
