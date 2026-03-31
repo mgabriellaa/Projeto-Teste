@@ -36,6 +36,8 @@ section{
     color: white;
     margin: 20px;
     padding: 30px;
+    background-color: aquamarine;
+    border-radius: 20px;
 }
 p{
 width: 400px;
