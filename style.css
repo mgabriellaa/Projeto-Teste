@@ -45,7 +45,7 @@ width: 400px;
 }
 section button{
     background-color: aliceblue;
-    color:rgb(13, 237, 177);
+    color:rgba(13, 218, 237, 0.665);
     height: 100px;
     width: 250px;
     font-size: 30px;
