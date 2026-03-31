@@ -52,3 +52,13 @@ section button{
     width: 250px;
     font-size: 30px;
 }
+footer{
+    height: 100px;
+    align-items: center;
+    justify-content: center;
+    background-color: deeppink;
+}
+h2{
+color: crimson;
+font-size: 30px;
+}
